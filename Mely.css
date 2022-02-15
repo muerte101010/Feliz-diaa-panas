@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Redressed', cursive;}
+
+.mely-all { 
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+    border-top: 6px solid black;
+}
+
+.titulo {
+    font-size: 30px;
+    margin-bottom: 4px;
+    
+}
+
+.mely-all  img{
+    width: 200px;
+    height: 255px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.mely-all p {
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 1.5;
+    box-shadow: 1px 5px 25px rgba(0, 0, 0, 45);
+    border-radius: 5px;
+
+}
+
+
+#cara {
+    width: 400PX;
+}

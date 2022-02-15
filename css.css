@@ -1,0 +1,87 @@
+#inicio {
+    text-align: center;
+    font-family: 'Gideon Roman', cursive;
+    font-size: 25px;
+}
+
+#img {
+    width: 800px;
+    height: 600px;
+    border-width: 5px;
+    border-color: plum;
+    border-style: solid;
+}
+
+
+
+
+.Person {
+    font-family: 'Gideon Roman', cursive;
+    text-align: center;
+    color: darkviolet;
+    font-size: 50px;
+}
+
+#title {
+    font-size: 50px;
+    color: darkviolet;
+}
+
+#nombre-1 {
+    color: darkviolet;
+}
+
+#nombre-2 {
+    color: darkviolet;
+}
+
+#nombre-3 {
+    color: darkviolet;
+}
+
+#nombre-4 {
+    color: darkviolet;
+}
+
+#nombre-5 {
+    color: darkviolet;
+}
+ 
+#nombre-6 {
+    color: darkviolet;
+}
+
+#nombre-7 {
+    color: darkviolet;
+}
+
+#nombre-8 {
+    color: darkviolet;
+}
+
+
+#regresa {
+    text-align: right;
+    font-style: normal;
+    font-weight: 20px 20px;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+.mensaje {
+    text-align: center;
+    color: violet;
+}
+
+#mensaje {
+    background-image: url(https://i.pinimg.com/originals/2a/05/c8/2a05c8cffdb87a17c9cd298740494cc3.gif);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    
+}
+
+#a {
+    color: black;
+}
